@@ -17,14 +17,4 @@ Welcome to my GitHub profile! I'm passionate about computers and I do a lot of p
 * Have my dipolome
 
 
-## My Work
 
-[Codage](https://github.com/miami-14/miami-14.github.io./tree/main/Codage)
-
-[Cours-SISR](https://github.com/miami-14/miami-14.github.io./tree/main/Cours-SISR)
-
-[Cours-SLAM](https://github.com/miami-14/miami-14.github.io./tree/main/Cours-SLAM)
-
-[Procédure-Création-de-dossier-GitHub](https://github.com/miami-14/miami-14.github.io./tree/main/Proc%C3%A9dure%20Cr%C3%A9ation%20de%20dossier%20GitHub)
-
-[Proxomox](https://github.com/miami-14/miami-14.github.io./tree/main/Proxomox)
